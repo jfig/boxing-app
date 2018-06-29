@@ -9,6 +9,10 @@ Feel free to report issues and contribute with some PullRequests
 * The most upfront (with features being tested) branch is the "master" branch
 * The branch currently running into the server is the "production" branch
 
+## Roadmap
+
+If you want to checkout what we're thinking about adding to the project next see the [roadmap](roadmap.md)
+
 ## Companion Repo: The API ##
 
 * This angular app requires a functional RESTful API to work with, the API provides all the data
